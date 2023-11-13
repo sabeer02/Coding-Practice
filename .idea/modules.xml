@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Coding Practice.iml" filepath="$PROJECT_DIR$/.idea/Coding Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.cp.array/com.cp.array.iml" filepath="$PROJECT_DIR$/com.cp.array/com.cp.array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.cp.encapsulation/com.cp.encapsulation.iml" filepath="$PROJECT_DIR$/com.cp.encapsulation/com.cp.encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.cp.hashmaps/com.cp.hashmaps.iml" filepath="$PROJECT_DIR$/com.cp.hashmaps/com.cp.hashmaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.cp.interfaces/com.cp.interfaces.iml" filepath="$PROJECT_DIR$/com.cp.interfaces/com.cp.interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.cp.list/com.cp.list.iml" filepath="$PROJECT_DIR$/com.cp.list/com.cp.list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.cp.strings/com.cp.strings.iml" filepath="$PROJECT_DIR$/com.cp.strings/com.cp.strings.iml" />
+    </modules>
+  </component>
+</project>
