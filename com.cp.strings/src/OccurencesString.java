@@ -12,7 +12,7 @@ public class OccurencesString {
     public static void main(String[] args) {
         String source = "Here here is an example. Right here.";
         String word = "here";
-        int size = word.length()
+        int size = word.length();
         int result = OccurencesString.getOccurrences(source, word);
         System.out.println(result);
     }
