@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/com.cp.interfaces/com.cp.interfaces.iml" filepath="$PROJECT_DIR$/com.cp.interfaces/com.cp.interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.cp.list/com.cp.list.iml" filepath="$PROJECT_DIR$/com.cp.list/com.cp.list.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.cp.methodOverloading/com.cp.methodOverloading.iml" filepath="$PROJECT_DIR$/com.cp.methodOverloading/com.cp.methodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.cp.pattern/com.cp.pattern.iml" filepath="$PROJECT_DIR$/com.cp.pattern/com.cp.pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.cp.stack/com.cp.stack.iml" filepath="$PROJECT_DIR$/com.cp.stack/com.cp.stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.cp.strings/com.cp.strings.iml" filepath="$PROJECT_DIR$/com.cp.strings/com.cp.strings.iml" />
     </modules>

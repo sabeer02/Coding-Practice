@@ -8,8 +8,8 @@
         <outputRelativeToContentRoot value="true" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="com.cp.pattern" target="1.7" />
+    <bytecodeTargetLevel target="21">
+      <module name="com.cp.pattern" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>
