@@ -17,7 +17,7 @@ public class PatternSeventeen {
             System.out.println((2*i+1)/2);*/
 
             for (int j = 0; j < (2*i+1); j++) {
-                if (j>=(((2*i+1)+1)/2)-1){
+                if (j>=i){
                     System.out.print(alphabet--);
                 }else {
                     System.out.print(alphabet++);

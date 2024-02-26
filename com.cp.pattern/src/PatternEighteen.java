@@ -10,12 +10,11 @@ public class PatternEighteen {
 
         int n = scr.nextInt();
         for (int i = 0; i < n; i++) {
-            char a = 'A';
+            char a = 'E';
             for (int j = 0; j <= i; j++) {
-                int asciiValue=a+n-(i+1);
+                int asciiValue=a-i;
                 char[] value = Character.toChars(asciiValue);
-                char alpha = value[0];
-                System.out.print(alpha + " ");
+                System.out.print(value[0] + " ");
                 a++;
             }
             System.out.println();

@@ -8,14 +8,14 @@ public class Array_2 {
 //            return count;
 //        }
 //
-//        HashMap<Integer, Integer> richa = new HashMap<>();
+//        HashMap<Integer, Integer> alex = new HashMap<>();
 //
 //
 //        for (int i = 0; i < nums.length; i++) {
-//            if (richa.get(nums[i]) < 2) {
+//            if (alex.get(nums[i]) < 2) {
 //
 //                System.out.println(nums[i]);
-//                richa.put(nums[i], 1);
+//                alex.put(nums[i], 1);
 //            }
 //        }
 //

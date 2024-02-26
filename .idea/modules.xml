@@ -3,13 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Coding Practice.iml" filepath="$PROJECT_DIR$/.idea/Coding Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.cp/basic.recursion/basic.recursion.iml" filepath="$PROJECT_DIR$/com.cp/basic.recursion/basic.recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.cp.array/com.cp.array.iml" filepath="$PROJECT_DIR$/com.cp.array/com.cp.array.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.cp.encapsulation/com.cp.encapsulation.iml" filepath="$PROJECT_DIR$/com.cp.encapsulation/com.cp.encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.cp.hashmaps/com.cp.hashmaps.iml" filepath="$PROJECT_DIR$/com.cp.hashmaps/com.cp.hashmaps.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.cp.interfaces/com.cp.interfaces.iml" filepath="$PROJECT_DIR$/com.cp.interfaces/com.cp.interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.cp.list/com.cp.list.iml" filepath="$PROJECT_DIR$/com.cp.list/com.cp.list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.cp.maths/com.cp.maths.iml" filepath="$PROJECT_DIR$/com.cp.maths/com.cp.maths.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.cp.methodOverloading/com.cp.methodOverloading.iml" filepath="$PROJECT_DIR$/com.cp.methodOverloading/com.cp.methodOverloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.cp.pattern/com.cp.pattern.iml" filepath="$PROJECT_DIR$/com.cp.pattern/com.cp.pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.cp.recursion/com.cp.recursion.iml" filepath="$PROJECT_DIR$/com.cp.recursion/com.cp.recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.cp.sorting/com.cp.sorting.iml" filepath="$PROJECT_DIR$/com.cp.sorting/com.cp.sorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.cp.stack/com.cp.stack.iml" filepath="$PROJECT_DIR$/com.cp.stack/com.cp.stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.cp.strings/com.cp.strings.iml" filepath="$PROJECT_DIR$/com.cp.strings/com.cp.strings.iml" />
     </modules>
