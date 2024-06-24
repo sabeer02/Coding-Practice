@@ -1,10 +1,10 @@
 public class ReverseArray {
     static int[] reverse(int [] arr, int s, int e){
-        if(e< arr.length && e>s){
+        if(e>s){
             int temp = arr[e];
             arr[e]=arr[s];
             arr[s]=temp;
-            return reverse(arr,++s,++e);
+            return reverse(arr,++s,--e);
         }
         return arr;
 

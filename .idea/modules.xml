@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/com.cp.encapsulation/com.cp.encapsulation.iml" filepath="$PROJECT_DIR$/com.cp.encapsulation/com.cp.encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.cp.hashmaps/com.cp.hashmaps.iml" filepath="$PROJECT_DIR$/com.cp.hashmaps/com.cp.hashmaps.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.cp.interfaces/com.cp.interfaces.iml" filepath="$PROJECT_DIR$/com.cp.interfaces/com.cp.interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.cp.javacore/com.cp.javacore.iml" filepath="$PROJECT_DIR$/com.cp.javacore/com.cp.javacore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.cp.linkList/com.cp.linkList.iml" filepath="$PROJECT_DIR$/com.cp.linkList/com.cp.linkList.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.cp.list/com.cp.list.iml" filepath="$PROJECT_DIR$/com.cp.list/com.cp.list.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.cp.maths/com.cp.maths.iml" filepath="$PROJECT_DIR$/com.cp.maths/com.cp.maths.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.cp.methodOverloading/com.cp.methodOverloading.iml" filepath="$PROJECT_DIR$/com.cp.methodOverloading/com.cp.methodOverloading.iml" />

@@ -4,7 +4,7 @@ public class Factorial {
         return findFact(n-1,fact*n);
     }
     public static void main(String[] args) {
-        int n = 5;
+        int n = 15;
         int fact=1;
         fact = findFact(n,fact);
         System.out.println(fact);

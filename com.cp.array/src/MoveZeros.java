@@ -11,7 +11,10 @@ public class MoveZeros {
                     nums[right]=0;
 
             }
-            left++;
+            if(nums[left]!=0){
+                left++;
+            }
+
         }
 
         /*int lastElement = nums.length-1;
@@ -58,7 +61,7 @@ public class MoveZeros {
         return nums;
     }
     public static void main(String[] args) {
-        int[] moveZero = new int[]{1,0,1};
+        int[] moveZero = new int[]{1,0,0,1};
         int[] result = moveZeroes(moveZero);
         System.out.println(Arrays.toString(result));
     }
